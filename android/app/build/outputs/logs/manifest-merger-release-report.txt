@@ -1,0 +1,427 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+MERGED from [:shared_preferences_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] C:\Users\yontech\Documents\Android Studio\thekidzit\build\device_info\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:2:1-23:12
+MERGED from [:fluttertoast] C:\Users\yontech\Documents\Android Studio\thekidzit\build\fluttertoast\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\video_player_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:android_intent] C:\Users\yontech\Documents\Android Studio\thekidzit\build\android_intent\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] C:\Users\yontech\Documents\Android Studio\thekidzit\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\webview_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\09cacc472d40bcabeb8b2ae084127488\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c508ce24e8e412162671d52ab4222e63\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8c1f7590f4841a833433c8563a9ba1b\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\9d58267f9886e8a82c2bc202a62e9b4d\jetified-exoplayer-hls-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2bbd00bf4754afea0b8e31ab6d70581f\jetified-exoplayer-dash-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\308a34ba55aa30d767207b2f11412750\jetified-exoplayer-smoothstreaming-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2f48bc1317812f63f0d184e995f56632\jetified-exoplayer-core-2.17.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\210a1861e38eb2cd58c59ccd694aa527\webkit-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\f23159b50ba1c236ddfdbc050fd1ae57\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\665a57012493244c728ff5269aa2dfe2\jetified-play-services-auth-api-phone-17.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\6faaac7677bee2b2ae4067f651da7d99\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\bbd91ce1e91b4206636170b1913cdd4a\jetified-play-services-identity-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\8125ca5f7e40bb0cc497d0936edd6f50\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e192291089b19b25475901c6ccdbad30\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8588739a5f1ae63257c58719cd43909\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c4a7a547fb9a6f4ea6e25743dea361df\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\66e22a01065993bfb54cff8210471872\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\52a929434dd8e16e0e8ec7e9f3157cdf\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\0f083704b7d1f6e6ee78f129ab4f7037\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8ba22f471da6d436211696b6d19a5a7\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\1bbe80569ff5eb97be5e91c493070c4b\jetified-exoplayer-datasource-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\5ddcafd4039bac303af7c03661074c7e\jetified-exoplayer-extractor-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\3048925fb76521eccd7112b5b654bc82\jetified-exoplayer-decoder-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\caadd779720a70c660b14ddb07b0da84\jetified-exoplayer-database-2.17.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\818668072e82eed2f7d4805bbfcbf9e4\jetified-exoplayer-common-2.17.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\698271a0b8e5084b95d815682f5bfa13\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\4d58506e1a25b4c3c50ce3ff9e88b837\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\74d31abb6cbed4860a1c7d7f3c89e996\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\972b6bdfa9b6b6f1e07c25e65bf58e56\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\4f14aaaf7c03d87731778687af898973\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\51325b3c932a3e46f14b9f00af0cdfbe\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\ce09f7a1297046fdd7dd5d182283e441\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\54ff403a1d7fed63f94009241932f30f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+	package
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:2:5-41
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:1-61:12
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:8:4-43:19
+MERGED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:7:5-17:19
+MERGED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:7:5-21:19
+MERGED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:7:5-21:19
+MERGED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:11:5-34:19
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:11:5-34:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\bbd91ce1e91b4206636170b1913cdd4a\jetified-play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\bbd91ce1e91b4206636170b1913cdd4a\jetified-play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\8125ca5f7e40bb0cc497d0936edd6f50\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\8125ca5f7e40bb0cc497d0936edd6f50\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8ba22f471da6d436211696b6d19a5a7\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8ba22f471da6d436211696b6d19a5a7\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\698271a0b8e5084b95d815682f5bfa13\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\698271a0b8e5084b95d815682f5bfa13\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8ba22f471da6d436211696b6d19a5a7\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:10:9-43
+activity#com.studsafe.kidzit.kidzit.MainActivity
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:11:9-37:20
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:16:13-56
+	android:launchMode
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:12:13-38
+	android:configChanges
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:17:13-163
+	android:theme
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:13:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:24:13-27:17
+	android:resource
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:26:15-52
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:25:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:35:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:40:9-42:33
+	android:value
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:42:13-30
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:41:13-44
+queries
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:44:5-60:15
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:46:9-49:18
+action#android.intent.action.VIEW
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:47:13-65
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:47:21-62
+data
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:48:13-44
+	android:scheme
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:48:19-41
+	android:mimeType
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:58:19-41
+intent#action:name:android.intent.action.DIAL+data:scheme:tel
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:51:9-54:18
+action#android.intent.action.DIAL
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:52:13-65
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:52:21-62
+intent#action:name:android.intent.action.SEND+data:mimeType:*/*
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:56:9-59:18
+action#android.intent.action.SEND
+ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:57:13-65
+	android:name
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml:57:21-62
+uses-sdk
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\shared_preferences_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\yontech\Documents\Android Studio\thekidzit\build\device_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\yontech\Documents\Android Studio\thekidzit\build\device_info\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\yontech\Documents\Android Studio\thekidzit\build\fluttertoast\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] C:\Users\yontech\Documents\Android Studio\thekidzit\build\fluttertoast\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\path_provider_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\video_player_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\video_player_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:android_intent] C:\Users\yontech\Documents\Android Studio\thekidzit\build\android_intent\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:android_intent] C:\Users\yontech\Documents\Android Studio\thekidzit\build\android_intent\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\yontech\Documents\Android Studio\thekidzit\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\yontech\Documents\Android Studio\thekidzit\build\wakelock\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\webview_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\webview_flutter_android\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\09cacc472d40bcabeb8b2ae084127488\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\09cacc472d40bcabeb8b2ae084127488\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c508ce24e8e412162671d52ab4222e63\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c508ce24e8e412162671d52ab4222e63\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8c1f7590f4841a833433c8563a9ba1b\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8c1f7590f4841a833433c8563a9ba1b\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\9d58267f9886e8a82c2bc202a62e9b4d\jetified-exoplayer-hls-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\9d58267f9886e8a82c2bc202a62e9b4d\jetified-exoplayer-hls-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2bbd00bf4754afea0b8e31ab6d70581f\jetified-exoplayer-dash-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2bbd00bf4754afea0b8e31ab6d70581f\jetified-exoplayer-dash-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\308a34ba55aa30d767207b2f11412750\jetified-exoplayer-smoothstreaming-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\308a34ba55aa30d767207b2f11412750\jetified-exoplayer-smoothstreaming-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2f48bc1317812f63f0d184e995f56632\jetified-exoplayer-core-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2f48bc1317812f63f0d184e995f56632\jetified-exoplayer-core-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\210a1861e38eb2cd58c59ccd694aa527\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\210a1861e38eb2cd58c59ccd694aa527\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\f23159b50ba1c236ddfdbc050fd1ae57\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:18.1.3] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\f23159b50ba1c236ddfdbc050fd1ae57\jetified-play-services-wallet-18.1.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\665a57012493244c728ff5269aa2dfe2\jetified-play-services-auth-api-phone-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\665a57012493244c728ff5269aa2dfe2\jetified-play-services-auth-api-phone-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\6faaac7677bee2b2ae4067f651da7d99\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\6faaac7677bee2b2ae4067f651da7d99\jetified-play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\bbd91ce1e91b4206636170b1913cdd4a\jetified-play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\bbd91ce1e91b4206636170b1913cdd4a\jetified-play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\8125ca5f7e40bb0cc497d0936edd6f50\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\8125ca5f7e40bb0cc497d0936edd6f50\jetified-play-services-tasks-17.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e192291089b19b25475901c6ccdbad30\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e192291089b19b25475901c6ccdbad30\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8588739a5f1ae63257c58719cd43909\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8588739a5f1ae63257c58719cd43909\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c4a7a547fb9a6f4ea6e25743dea361df\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c4a7a547fb9a6f4ea6e25743dea361df\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\66e22a01065993bfb54cff8210471872\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\66e22a01065993bfb54cff8210471872\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\52a929434dd8e16e0e8ec7e9f3157cdf\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\52a929434dd8e16e0e8ec7e9f3157cdf\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\0f083704b7d1f6e6ee78f129ab4f7037\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\0f083704b7d1f6e6ee78f129ab4f7037\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8ba22f471da6d436211696b6d19a5a7\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\a8ba22f471da6d436211696b6d19a5a7\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\1bbe80569ff5eb97be5e91c493070c4b\jetified-exoplayer-datasource-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\1bbe80569ff5eb97be5e91c493070c4b\jetified-exoplayer-datasource-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\5ddcafd4039bac303af7c03661074c7e\jetified-exoplayer-extractor-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\5ddcafd4039bac303af7c03661074c7e\jetified-exoplayer-extractor-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\3048925fb76521eccd7112b5b654bc82\jetified-exoplayer-decoder-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\3048925fb76521eccd7112b5b654bc82\jetified-exoplayer-decoder-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\caadd779720a70c660b14ddb07b0da84\jetified-exoplayer-database-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\caadd779720a70c660b14ddb07b0da84\jetified-exoplayer-database-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\818668072e82eed2f7d4805bbfcbf9e4\jetified-exoplayer-common-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\818668072e82eed2f7d4805bbfcbf9e4\jetified-exoplayer-common-2.17.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\698271a0b8e5084b95d815682f5bfa13\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\698271a0b8e5084b95d815682f5bfa13\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\4d58506e1a25b4c3c50ce3ff9e88b837\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\4d58506e1a25b4c3c50ce3ff9e88b837\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\74d31abb6cbed4860a1c7d7f3c89e996\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\74d31abb6cbed4860a1c7d7f3c89e996\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\972b6bdfa9b6b6f1e07c25e65bf58e56\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\972b6bdfa9b6b6f1e07c25e65bf58e56\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\4f14aaaf7c03d87731778687af898973\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\4f14aaaf7c03d87731778687af898973\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\51325b3c932a3e46f14b9f00af0cdfbe\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\51325b3c932a3e46f14b9f00af0cdfbe\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\ce09f7a1297046fdd7dd5d182283e441\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\ce09f7a1297046fdd7dd5d182283e441\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\54ff403a1d7fed63f94009241932f30f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\54ff403a1d7fed63f94009241932f30f\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yontech\Documents\Android Studio\thekidzit\android\app\src\main\AndroidManifest.xml
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:9:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:13:13-15:68
+	android:resource
+		ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:15:17-65
+	android:name
+		ADDED from [:share_plus] C:\Users\yontech\Documents\Android Studio\thekidzit\build\share_plus\intermediates\library_manifest\release\AndroidManifest.xml:14:17-67
+activity#com.razorpay.CheckoutActivity
+ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:20
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:18:9-29:20
+	android:label
+		ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:11:13-46
+	android:exported
+		ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:20:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:9:13-57
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:14:9-20:20
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:12:9-16:20
+MERGED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:12:9-16:20
+	android:exported
+		ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:15:13-57
+intent-filter#action:name:rzp.device_token.share
+ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:17:13-19:29
+action#rzp.device_token.share
+ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:18:17-65
+	android:name
+		ADDED from [:razorpay_flutter] C:\Users\yontech\Documents\Android Studio\thekidzit\build\razorpay_flutter\intermediates\library_manifest\release\AndroidManifest.xml:18:25-62
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\yontech\Documents\Android Studio\thekidzit\build\url_launcher_android\intermediates\library_manifest\release\AndroidManifest.xml:9:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\eb2ca01484bfab6e380a63d16976d1f3\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2f48bc1317812f63f0d184e995f56632\jetified-exoplayer-core-2.17.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\818668072e82eed2f7d4805bbfcbf9e4\jetified-exoplayer-common-2.17.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\818668072e82eed2f7d4805bbfcbf9e4\jetified-exoplayer-common-2.17.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.17.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\2f48bc1317812f63f0d184e995f56632\jetified-exoplayer-core-2.17.0\AndroidManifest.xml:24:22-76
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:22:13-28:29
+meta-data#com.razorpay.plugin.googlepay_all
+ADDED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:31:9-33:58
+	android:value
+		ADDED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:33:13-55
+	android:name
+		ADDED from [com.razorpay:checkout:1.6.15] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\e0c63538c690c339b3e83ead4a64f885\jetified-checkout-1.6.15\AndroidManifest.xml:32:13-61
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\dab7dca812074f4b1275987a731855fc\jetified-play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\03e086296756f7132e5a1adb7624a689\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\c7b4e6298bd2cda14acbe015b7d4ec33\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] C:\Users\yontech\.gradle\caches\transforms-2\files-2.1\7987fc9fbcc63225407ef3709280eeb9\jetified-play-services-basement-17.6.0\AndroidManifest.xml:24:13-58
